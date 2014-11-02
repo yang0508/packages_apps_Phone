@@ -93,29 +93,29 @@
     <string name="labelCW" msgid="6120513814915920200">"통화중 대기"</string>
     <string name="sum_cw_enabled" msgid="8083061901633671397">"통화 중 수신전화 알림"</string>
     <string name="sum_cw_disabled" msgid="3648693907300104575">"통화 중 수신전화 알림"</string>
-    <string name="call_forwarding_settings" msgid="3378927671091537173">"착신전환 설정"</string>
-    <string name="labelCF" msgid="2574386948026924737">"착신전환"</string>
-    <string name="labelCFU" msgid="8147177368148660600">"항상 착신전환"</string>
+    <string name="call_forwarding_settings" msgid="3378927671091537173">"착신 전환 설정"</string>
+    <string name="labelCF" msgid="2574386948026924737">"착신 전환"</string>
+    <string name="labelCFU" msgid="8147177368148660600">"항상 착신 전환"</string>
     <string name="messageCFU" msgid="3560082430662923687">"항상 이 번호 사용"</string>
-    <string name="sum_cfu_enabled_indicator" msgid="4014187342724130197">"모든 통화 착신전환"</string>
-    <string name="sum_cfu_enabled" msgid="2450052502198827927">"모든 통화를 <xliff:g id="PHONENUMBER">{0}</xliff:g>(으)로 착신전환 중"</string>
+    <string name="sum_cfu_enabled_indicator" msgid="4014187342724130197">"모든 통화 착신 전환"</string>
+    <string name="sum_cfu_enabled" msgid="2450052502198827927">"모든 통화를 <xliff:g id="PHONENUMBER">{0}</xliff:g>(으)로 착신 전환 중"</string>
     <string name="sum_cfu_enabled_no_number" msgid="6591985777096823616">"없는 전화번호입니다."</string>
     <string name="sum_cfu_disabled" msgid="3698472522160364904">"사용 중지됨"</string>
     <string name="labelCFB" msgid="218938523102207587">"통화 중일 경우"</string>
-    <string name="messageCFB" msgid="3711089705936187129">"통화 중인 경우 착신전환할 번호"</string>
-    <string name="sum_cfb_enabled" msgid="5984198104833116690">"<xliff:g id="PHONENUMBER">{0}</xliff:g>(으)로 착신전환 중"</string>
+    <string name="messageCFB" msgid="3711089705936187129">"통화 중인 경우 착신 전환할 번호"</string>
+    <string name="sum_cfb_enabled" msgid="5984198104833116690">"<xliff:g id="PHONENUMBER">{0}</xliff:g>(으)로 착신 전환 중"</string>
     <string name="sum_cfb_disabled" msgid="227440009979537651">"사용 중지됨"</string>
-    <string name="disable_cfb_forbidden" msgid="3506984333877998061">"휴대전화가 사용 중일 때 착신전환 사용 중지를 이동통신사에서 지원하지 않습니다."</string>
+    <string name="disable_cfb_forbidden" msgid="3506984333877998061">"휴대전화가 사용 중일 때 착신 전환 사용 중지를 이동통신사에서 지원하지 않습니다."</string>
     <string name="labelCFNRy" msgid="3646316323834351390">"받지 않은 경우"</string>
-    <string name="messageCFNRy" msgid="672317899884380374">"전화를 받지 않은 경우 착신전환할 번호"</string>
-    <string name="sum_cfnry_enabled" msgid="6955775691317662910">"<xliff:g id="PHONENUMBER">{0}</xliff:g>(으)로 착신전환 중"</string>
+    <string name="messageCFNRy" msgid="672317899884380374">"전화를 받지 않은 경우 착신 전환할 번호"</string>
+    <string name="sum_cfnry_enabled" msgid="6955775691317662910">"<xliff:g id="PHONENUMBER">{0}</xliff:g>(으)로 착신 전환 중"</string>
     <string name="sum_cfnry_disabled" msgid="8422350929957344729">"사용 중지됨"</string>
-    <string name="disable_cfnry_forbidden" msgid="4308233959150658058">"휴대전화가 응답하지 않을 때 착신전환 사용 중지를 이동통신사에서 지원하지 않습니다."</string>
+    <string name="disable_cfnry_forbidden" msgid="4308233959150658058">"휴대전화가 응답하지 않을 때 착신 전환 사용 중지를 이동통신사에서 지원하지 않습니다."</string>
     <string name="labelCFNRc" msgid="47183615370850000">"받을 수 없는 경우"</string>
-    <string name="messageCFNRc" msgid="6380695421020295119">"전화를 받을 수 없는 경우 착신전환할 번호"</string>
-    <string name="sum_cfnrc_enabled" msgid="7010898346095497421">"<xliff:g id="PHONENUMBER">{0}</xliff:g>(으)로 착신전환 중"</string>
+    <string name="messageCFNRc" msgid="6380695421020295119">"전화를 받을 수 없는 경우 착신 전환할 번호"</string>
+    <string name="sum_cfnrc_enabled" msgid="7010898346095497421">"<xliff:g id="PHONENUMBER">{0}</xliff:g>(으)로 착신 전환 중"</string>
     <string name="sum_cfnrc_disabled" msgid="7222141261321276464">"사용 중지됨"</string>
-    <string name="disable_cfnrc_forbidden" msgid="5646361343094064333">"이동통신사에서 전화를 받을 수 없을 때 착신전환 사용 중지를 지원하지 않습니다."</string>
+    <string name="disable_cfnrc_forbidden" msgid="5646361343094064333">"이동통신사에서 전화를 받을 수 없을 때 착신 전환 사용 중지를 지원하지 않습니다."</string>
     <string name="updating_title" msgid="6146755386174019046">"통화 설정"</string>
     <string name="error_updating_title" msgid="7970259216988931777">"통화 설정 오류"</string>
     <string name="reading_settings" msgid="1920291699287055284">"설정을 읽는 중..."</string>
@@ -136,8 +136,8 @@
   </string-array>
     <string name="vm_changed" msgid="380744030726254139">"음성사서함 번호가 변경되었습니다."</string>
     <string name="vm_change_failed" msgid="3352934863246208918">"음성사서함 번호를 변경하지 못했습니다."\n"문제가 계속되면 이동통신사에 문의하세요."</string>
-    <string name="fw_change_failed" msgid="5298103228470214665">"착신전환할 번호를 변경하지 못했습니다."\n"문제가 계속되면 이동통신사에 문의하세요."</string>
-    <string name="fw_get_in_vm_failed" msgid="8862896836093833973">"현재 착신전환 번호 설정을 검색하고 저장하지 못했습니다."\n"그래도 새로운 통신사로 전환하시겠습니까?"</string>
+    <string name="fw_change_failed" msgid="5298103228470214665">"착신 전환할 번호를 변경하지 못했습니다."\n"문제가 계속되면 이동통신사에 문의하세요."</string>
+    <string name="fw_get_in_vm_failed" msgid="8862896836093833973">"현재 착신 전환 번호 설정을 검색하고 저장하지 못했습니다."\n"그래도 새로운 통신사로 전환하시겠습니까?"</string>
     <string name="no_change" msgid="3186040086622435212">"변경사항이 없습니다."</string>
     <string name="sum_voicemail_choose_provider" msgid="59911196126278922">"음성사서함 서비스 선택"</string>
     <string name="voicemail_default" msgid="5902099213882352338">"내 이동통신사"</string>
@@ -159,7 +159,7 @@
     <string name="preferred_network_mode_title" msgid="8873246565334559308">"네트워크 모드"</string>
     <string name="preferred_network_mode_summary" msgid="1434820673166126609">"네트워크 작동 모드 변경"</string>
     <string name="preferred_network_mode_dialogtitle" msgid="8176355237105593793">"기본 설정된 네트워크 모드"</string>
-    <string name="preferred_network_mode_wcdma_perf_summary" msgid="8521677230113533809">"기본 네트워크 모드: WCDMA 선호"</string>
+    <string name="preferred_network_mode_wcdma_perf_summary" msgid="8521677230113533809">"기본 네트워크 모드: GSM/WCDMA"</string>
     <string name="preferred_network_mode_gsm_only_summary" msgid="3352445413437453511">"기본 네트워크 모드: GSM 전용"</string>
     <string name="preferred_network_mode_wcdma_only_summary" msgid="2836897236221063413">"기본 네트워크 모드: WCDMA 전용"</string>
     <string name="preferred_network_mode_gsm_wcdma_summary" msgid="3161255745326408587">"기본 네트워크 모드: GSM/WCDMA"</string>
@@ -169,7 +169,7 @@
     <string name="preferred_network_mode_evdo_only_summary" msgid="8472220691721269155">"기본 네트워크 모드: EvDo 전용"</string>
     <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary" msgid="4726682079415227330">"기본 네트워크 모드: CDMA/EvDo/GSM/WCDMA"</string>
     <string name="preferred_network_mode_lte_summary" msgid="574752287596469136">"기본 네트워크 모드: LTE"</string>
-    <string name="preferred_network_mode_lte_gsm_wcdma_summary" msgid="8455358514068283935">"기본 네트워크 모드: GSM/WCDMA/LTE"</string>
+    <string name="preferred_network_mode_lte_gsm_wcdma_summary" msgid="8455358514068283935">"기본 네트워크 모드: LTE/GSM/WCDMA"</string>
     <string name="preferred_network_mode_lte_cdma_evdo_summary" msgid="228702246343742853">"기본 네트워크 모드: CDMA+LTE/EVDO"</string>
     <string name="preferred_network_mode_global_summary" msgid="1633134285545730364">"기본 네트워크 모드: 글로벌"</string>
     <string name="preferred_network_mode_lte_wcdma_summary" msgid="9180775701594742750">"기본 네트워크 모드: LTE/WCDMA"</string>
@@ -200,11 +200,11 @@
   </string-array>
     <string name="data_enabled" msgid="5972538663568715366">"데이터 사용"</string>
     <string name="data_enable_summary" msgid="5022018967714633874">"모바일 네트워크에서 데이터 액세스 사용"</string>
-    <string name="roaming" msgid="8871412572928323707">"데이터 로밍"</string>
-    <string name="roaming_enable" msgid="7331106985174381987">"로밍 시 데이터 서비스에 연결"</string>
-    <string name="roaming_disable" msgid="1843417228755568110">"로밍 시 데이터 서비스에 연결"</string>
-    <string name="roaming_reenable_message" msgid="8913735676127858115">"데이터 로밍을 사용 중지한 상태에서 홈 네트워크를 벗어났으므로 데이터 연결이 끊어졌습니다."</string>
-    <string name="roaming_warning" msgid="7820963598559553967">"데이터 로밍을 허용하시겠습니까? 높은 로밍 요금이 부과될 수 있습니다."</string>
+    <string name="roaming" msgid="8871412572928323707">"로밍 서비스"</string>
+    <string name="roaming_enable" msgid="7331106985174381987">"로밍 데이터 서비스 연결 : 사용중"</string>
+    <string name="roaming_disable" msgid="1843417228755568110">"로밍 데이터 서비스 연결 : 사용안함"</string>
+    <string name="roaming_reenable_message" msgid="8913735676127858115">"로밍 서비스를 중지한 상태에서 서비스 지역을 벗어나 연결이 끊어졌습니다."</string>
+    <string name="roaming_warning" msgid="7820963598559553967">"로밍 서비스를 사용하시겠습니까? 높은 로밍 요금이 부과될 수 있습니다."</string>
     <string name="gsm_umts_options" msgid="6538311689850981686">"GSM/UMTS 옵션"</string>
     <string name="cdma_options" msgid="4016822858172249884">"CDMA 옵션"</string>
     <string name="throttle_data_usage" msgid="3715677828160555808">"데이터 사용"</string>
@@ -641,4 +641,41 @@
     <string name="dtmf_tone_enable_title" msgid="827601042915852989">"다이얼패드 터치음"</string>
     <string name="dial_pad_autocomplete" msgid="494525952035761075">"다이얼패드 자동완성"</string>
     <string name="preference_category_ringtone" msgid="5197960752529332721">"벨소리 및 진동"</string>
+    <string name="dialer_ui_settings_title">"다이얼패드 설정"</string>
+    <string name="dialer_ui_settings_summary">"T9 다이얼 및 화면방향 전환 설정"</string>
+    <string name="noise_suppression_title">"잡음 제거"</string>
+    <string name="noise_suppression_summary">"통화 중 잡음을 제거"</string>
+    <string name="advanced_setting">고급 설정</string>
+    <string name="vibrate_outgoing">통화 시작 시 진동</string>
+    <string name="vibrate_45">1분 간격으로 진동</string>
+    <string name="vibrate_45_sum">전화를 걸었을때 통화중에 1분 간격으로 진동</string>
+    <string name="vibrate_hangup">통화 종료 시 진동</string>
+    <string name="vibrate_call_waiting">통화 대기 시 진동</string>
+    <string name="flip_action_title">폰 뒤집기 설정</string>
+    <string name="flip_action_dialog_title">폰을 뒤집었을때 \u2026</string>
+    <string name="flip_action_summary">폰을 뒤집었을때 <xliff:g id="action">%s</xliff:g></string>
+    <string name="show_ssn_label">네트웍 이벤트 알림</string>
+    <string name="show_ssn_summary">통화중 네트웍 이벤트가 있을때 알림</string>
+    <string-array name="flip_action_setting_entries">
+        <item>아무런 작동 없음</item>
+        <item>벨소리 무음</item>
+        <item>전화 수신 안함</item>
+    </string-array>
+    <string-array name="flip_action_summary_entries">
+        <item>아무런 작동 없음</item>
+        <item>벨소리 무음</item>
+        <item>전화 수신 안함</item>
+    </string-array>
+    <string name="calllog_after_call">통화 기록 표시</string>
+    <string name="calllog_after_call_summary">통화 종료 후 통화 기록 표시</string>
+    <string name="blacklist_title">수신 거부</string>
+    <string name="blacklist_summary">수신 거부 목록 관리</string>
+    <string name="rejected_as_missed">부재중 전화 기록 확인</string>
+    <string name="rejected_as_missed_sum">수신전화 기록 에서 부재중 수신전화 목록을 우선 확인</string>
+    <string name="blacklist_summary_disabled">사용 안함</string>
+    <string name="national_roaming">국제 로밍 서비스</string>
+    <string name="national_roaming_summary">국제 로밍 데이터 서비스 연결</string>
+    <string name="phone_number_label">내 전화번호</string>
+    <string name="phone_number_summary" product="tablet">태블릿의 전화번호를 설정</string>
+    <string name="phone_number_summary" product="default">휴대폰의 전화번호를 설정</string>
 </resources>
