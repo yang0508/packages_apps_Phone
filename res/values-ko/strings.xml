@@ -159,7 +159,7 @@
     <string name="preferred_network_mode_title" msgid="8873246565334559308">"네트워크 모드"</string>
     <string name="preferred_network_mode_summary" msgid="1434820673166126609">"네트워크 작동 모드 변경"</string>
     <string name="preferred_network_mode_dialogtitle" msgid="8176355237105593793">"기본 설정된 네트워크 모드"</string>
-    <string name="preferred_network_mode_wcdma_perf_summary" msgid="8521677230113533809">"기본 네트워크 모드: WCDMA 선호"</string>
+    <string name="preferred_network_mode_wcdma_perf_summary" msgid="8521677230113533809">"기본 네트워크 모드: 3G (GSM)"</string>
     <string name="preferred_network_mode_gsm_only_summary" msgid="3352445413437453511">"기본 네트워크 모드: GSM 전용"</string>
     <string name="preferred_network_mode_wcdma_only_summary" msgid="2836897236221063413">"기본 네트워크 모드: WCDMA 전용"</string>
     <string name="preferred_network_mode_gsm_wcdma_summary" msgid="3161255745326408587">"기본 네트워크 모드: GSM/WCDMA"</string>
@@ -681,6 +681,6 @@
     <string name="national_roaming_summary">국제 로밍 데이터 서비스 연결</string>
     <string name="phone_number_label">내 전화번호</string>
     <string name="phone_number_summary">휴대폰의 전화번호를 설정</string>
-    <string name="preferred_network_mode_lte_gsm_summary">기본 네트워크 모드: LTE/GSM/WCDMA</string>
+    <string name="preferred_network_mode_lte_gsm_summary">기본 네트워크 모드: 4G (LTE)</string>
     <string name="preferred_network_mode_lte_cdma_evdo_gsm_wcdma_summary">기본 네트워크 모드: LTE/CMDA/EvDo/GSM/WCDMA</string>
 </resources>
