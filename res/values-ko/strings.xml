@@ -184,11 +184,11 @@
   </string-array>
     <string name="data_enabled" msgid="5972538663568715366">"데이터 사용"</string>
     <string name="data_enable_summary" msgid="5022018967714633874">"모바일 네트워크에서 데이터 액세스 사용"</string>
-    <string name="roaming" msgid="8871412572928323707">"데이터 로밍"</string>
-    <string name="roaming_enable" msgid="7331106985174381987">"로밍 시 데이터 서비스에 연결"</string>
-    <string name="roaming_disable" msgid="1843417228755568110">"로밍 시 데이터 서비스에 연결"</string>
-    <string name="roaming_reenable_message" msgid="8913735676127858115">"데이터 로밍을 사용 중지한 상태에서 홈 네트워크를 벗어났으므로 데이터 연결이 끊어졌습니다."</string>
-    <string name="roaming_warning" msgid="7820963598559553967">"데이터 로밍을 허용하시겠습니까? 높은 로밍 요금이 부과될 수 있습니다."</string>
+    <string name="roaming" msgid="8871412572928323707">"로밍 서비스"</string>
+    <string name="roaming_enable" msgid="7331106985174381987">"로밍 데이터 서비스 연결 : 사용중"</string>
+    <string name="roaming_disable" msgid="1843417228755568110">"로밍 데이터 서비스 연결 : 사용안함"</string>
+    <string name="roaming_reenable_message" msgid="8913735676127858115">"로밍 서비스를 중지한 상태에서 서비스 지역을 벗어나 연결이 끊어졌습니다."</string>
+    <string name="roaming_warning" msgid="7820963598559553967">"로밍 서비스를 사용하시겠습니까? 높은 로밍 요금이 부과될 수 있습니다."</string>
     <string name="gsm_umts_options" msgid="6538311689850981686">"GSM/UMTS 옵션"</string>
     <string name="cdma_options" msgid="4016822858172249884">"CDMA 옵션"</string>
     <string name="throttle_data_usage" msgid="3715677828160555808">"데이터 사용"</string>
@@ -395,7 +395,6 @@
     <string name="card_title_hanging_up" msgid="3999101620995182450">"전화 끊는 중"</string>
     <string name="card_title_in_call" msgid="6346543933068225205">"통화 상태"</string>
     <string name="card_title_my_phone_number" msgid="112428362494434191">"내 전화번호는 <xliff:g id="MY_PHONE_NUMBER">%s</xliff:g>입니다."</string>
-    <string name="notification_dialing" msgid="2107666444937350731">"전화 거는 중"</string>
     <string name="notification_missedCallTitle" msgid="7554385905572364535">"부재중 전화"</string>
     <string name="notification_missedCallsTitle" msgid="1361677948941502522">"부재중 통화"</string>
     <string name="notification_missedCallsMsg" msgid="4575787816055205600">"부재중 통화 <xliff:g id="NUM_MISSED_CALLS">%s</xliff:g>통"</string>
@@ -612,8 +611,7 @@
     <string name="description_target_decline" msgid="4789834364389731957">"거부"</string>
     <string name="voicemail_notification_vibrate_when_title" msgid="8361970092063604886">"진동"</string>
     <string name="voicemail_notification_vibarte_when_dialog_title" msgid="5739583146522136440">"진동"</string>
-    <string name="voicemail_notification_ringtone_title" msgid="2609519527849101590">"알림음"</string>
-    <string name="default_notification_description" msgid="78174796906240970">"기본 알림음(<xliff:g id="DEFAULT_SOUND_TITLE">%1$s</xliff:g>)"</string>
+    <string name="voicemail_notification_ringtone_title" msgid="2512535133814478358">"벨소리"</string>
   <string-array name="voicemail_notification_vibrate_when_entries">
     <item msgid="468237575962916558">"항상"</item>
     <item msgid="1595097872875714252">"무음 시에만"</item>
@@ -622,5 +620,67 @@
     <string name="ringtone_title" msgid="6374978286202084684">"전화 벨소리"</string>
     <string name="vibrate_on_ring_title" msgid="9197564612065258960">"전화 수신 시 진동"</string>
     <string name="dtmf_tone_enable_title" msgid="827601042915852989">"다이얼패드 터치음"</string>
-    <string name="preference_category_ringtone" msgid="5197960752529332721">"벨소리 및 진동"</string>
+    <string name="preference_category_ringtone" msgid="9007490591910078324">"벨소리"</string>
+    <!-- Dialer UI Settings -->
+    <string name="dialer_ui_settings_title">"다이얼패드 설정"</string>
+    <string name="dialer_ui_settings_summary">"T9 다이얼 및 화면방향 전환 설정"</string>
+
+    <!-- Noise suppression -->
+    <string name="noise_suppression_title">"잡음 제거"</string>
+    <string name="noise_suppression_summary">"통화 중 잡음을 제거"</string>
+    <!-- End Noise suppression -->
+
+    <string name="advanced_setting">고급 설정</string>
+    <string name="vibrate_outgoing">통화 시작 시 진동</string>
+    <string name="vibrate_call_waiting">통화 대기 시 진동</string>
+    <string name="vibrate_hangup">통화 종료 시 진동</string>
+    <string name="vibrate_45">1분 간격으로 진동</string>
+    <string name="vibrate_45_sum">전화를 걸었을때 통화중에 1분 간격으로 진동</string>
+    <string name="flip_action_title">폰 뒤집기 설정</string>
+    <string name="flip_action_dialog_title">폰을 뒤집었을때 \u2026</string>
+    <string name="flip_action_summary">폰을 뒤집었을때 <xliff:g id="action">%s</xliff:g></string>
+    <string name="show_ssn_label">네트웍 이벤트 알림</string>
+    <string name="show_ssn_summary">통화중 네트웍 이벤트가 있을때 알림</string>
+    <string-array name="flip_action_setting_entries">
+        <item>아무런 작동 없음</item>
+        <item>벨소리 무음</item>
+        <item>전화 끊기</item>
+    </string-array>
+    <string-array name="flip_action_summary_entries">
+        <item>아무런 작동 없음</item>
+        <item>벨소리 무음</item>
+        <item>전화 끊기</item>
+    </string-array>
+    <string name="calllog_after_call">통화 기록 표시</string>
+    <string name="calllog_after_call_summary">통화 종료 후 통화 기록 표시</string>
+    <string name="blacklist_title">수신 거부</string>
+    <string name="enable_blacklist_title">수신 거부 사용</string>
+    <string name="blacklist_summary_disabled">사용 안함</string>
+    <string name="blacklist_summary">수신 거부 목록에 등록된 전화번호의 수신이 차단됩니다</string>
+    <string name="blacklist_notify">알림 표시</string>
+    <string name="blacklist_private_numbers_title">자주 사용하는 전화번호</string>
+    <string name="blacklist_private_numbers_summary">자주 사용하는 번호로 등록된 전화번호를 차단</string>
+    <string name="blacklist_unknown_numbers_title">확인되지 않은 전화번호</string>
+    <string name="blacklist_unknown_numbers_summary">주소록에 등록되지 않은 전화번호를 차단</string>
+    <string name="blacklist_regex_title">와일드카드 사용</string>
+    <string name="add_blacklist_number">전화번호 등록</string>
+    <string name="add_to_blacklist">수신거부 목록에 추가</string>
+    <string name="add_to_blacklist_message">%s : 수신거부 목록에 등록되었습니다</string>
+    <string name="remove_blacklist_number_title">전화번호 삭제</string>
+    <string name="remove_blacklist_number">%s : 수신거부 목록에서 삭제하시겠습니까?</string>
+    <string name="blacklist_notification">%s : 수신거부 차단</string>
+    <string name="blacklist_notification_private_number">자주 사용하는 전화번호 차단</string>
+    <string name="blacklist_notification_list_private">자주 사용</string>
+    <string name="blacklist_notification_unknown_number">%s : 확인되지 않은 전화번호 차단</string>
+    <string name="blacklist_notification_multiple"><xliff:g id="count">%d</xliff:g> 개의 수신이 차단됨</string>
+    <string name="unblock_number">차단 해제</string>
+    <string name="onscreenBlacklistText">수신 거부</string>
+    <string name="rejected_as_missed">부재중 수신전화 기록 확인</string>
+    <string name="rejected_as_missed_sum">전화 수신 기록에서 부재중 수신전화 목록을 우선 확인</string>
+    <string name="national_roaming">국제 로밍 서비스</string>
+    <string name="national_roaming_summary">국제 로밍 데이터 서비스 연결</string>
+    <string name="phone_number_label">내 전화번호</string>
+    <string name="phone_number_summary">휴대폰의 전화번호를 설정</string>
+    <string name="preferred_network_mode_lte_gsm_summary">기본 네트워크 모드: LTE/GSM/WCDMA</string>
+    <string name="preferred_network_mode_lte_cdma_evdo_gsm_wcdma_summary">기본 네트워크 모드: LTE/CMDA/EvDo/GSM/WCDMA</string>
 </resources>
